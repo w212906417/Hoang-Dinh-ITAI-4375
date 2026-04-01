@@ -1,4 +1,4 @@
-# Module 1: Medical Terminology in AI-Driven Healthcare
+# Assignment 1: Medical Terminology in AI-Driven Healthcare
 
 ## 📌 Overview
 This module introduces foundational medical terminology essential for understanding how Artificial Intelligence (AI) is applied in healthcare. The assignment focuses on identifying, defining, and contextualizing key clinical and technological terms from recent medical literature (2025 studies).
