@@ -1,4 +1,4 @@
-# Module 2: Healthcare Dataset Analysis
+# Assignment 2: Healthcare Dataset Analysis
 
 ## 📌 Overview
 This module focuses on understanding and analyzing a structured healthcare dataset that represents patient visits, clinical measurements, and medical history. The objective is to explore how healthcare data is organized and how it can be used as input for Artificial Intelligence (AI) models.
